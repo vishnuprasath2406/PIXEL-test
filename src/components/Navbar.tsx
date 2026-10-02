@@ -6,6 +6,7 @@ const NAV_LINKS = [
   { label: 'HOME',                href: '/' },
   { label: 'ABOUT US',            href: '/about' },
   { label: 'AGENDA',              href: '/agenda' },
+  { label: 'CERTIFICATE',         href: '/certificate' },
   { label: 'VENUES',              href: '/venues' },
   { label: 'STAFF COORDINATORS',  href: '/staff-coordinators' },
   { label: 'STUDENT COORDINATORS',href: '/student-coordinators' },
